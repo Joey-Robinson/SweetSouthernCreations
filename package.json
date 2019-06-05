@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "author": "Joey Robinson <joeyrobinsondev@gmail.com>",
   "dependencies": {
-    "gatsby": "^1.9.232",
+    "gatsby": "^2.8.5",
     "gatsby-link": "^1.6.39",
     "gatsby-plugin-react-helmet": "^2.0.7",
-    "gatsby-plugin-sass": "^1.0.21",
+    "gatsby-plugin-sass": "^2.0.11",
     "react-bootstrap": "^0.32.1",
     "react-helmet": "^5.2.0"
   },
